@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/developerFolio/static/css/main.6cd5fadf.chunk.css",
+    "main.js": "/developerFolio/static/js/main.a998674e.chunk.js",
+    "main.js.map": "/developerFolio/static/js/main.a998674e.chunk.js.map",
+    "runtime-main.js": "/developerFolio/static/js/runtime-main.8b82a389.js",
+    "runtime-main.js.map": "/developerFolio/static/js/runtime-main.8b82a389.js.map",
+    "static/js/2.ad0979d9.chunk.js": "/developerFolio/static/js/2.ad0979d9.chunk.js",
+    "static/js/2.ad0979d9.chunk.js.map": "/developerFolio/static/js/2.ad0979d9.chunk.js.map",
+    "static/css/3.5b632396.chunk.css": "/developerFolio/static/css/3.5b632396.chunk.css",
+    "static/js/3.4f74720b.chunk.js": "/developerFolio/static/js/3.4f74720b.chunk.js",
+    "static/js/3.4f74720b.chunk.js.map": "/developerFolio/static/js/3.4f74720b.chunk.js.map",
+    "static/css/4.360ea92e.chunk.css": "/developerFolio/static/css/4.360ea92e.chunk.css",
+    "static/js/4.3f1a156e.chunk.js": "/developerFolio/static/js/4.3f1a156e.chunk.js",
+    "static/js/4.3f1a156e.chunk.js.map": "/developerFolio/static/js/4.3f1a156e.chunk.js.map",
+    "index.html": "/developerFolio/index.html",
+    "precache-manifest.537a8ea189095fdb8c489502e987eeca.js": "/developerFolio/precache-manifest.537a8ea189095fdb8c489502e987eeca.js",
+    "service-worker.js": "/developerFolio/service-worker.js",
+    "static/css/3.5b632396.chunk.css.map": "/developerFolio/static/css/3.5b632396.chunk.css.map",
+    "static/css/4.360ea92e.chunk.css.map": "/developerFolio/static/css/4.360ea92e.chunk.css.map",
+    "static/css/main.6cd5fadf.chunk.css.map": "/developerFolio/static/css/main.6cd5fadf.chunk.css.map",
+    "static/js/2.ad0979d9.chunk.js.LICENSE.txt": "/developerFolio/static/js/2.ad0979d9.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/developerFolio/static/media/Montserrat-Regular.847627bf.ttf",
+    "static/media/codeInLogo.webp": "/developerFolio/static/media/codeInLogo.47a7a717.webp",
+    "static/media/contactMailDark.svg": "/developerFolio/static/media/contactMailDark.51cf7192.svg",
+    "static/media/developerActivity.svg": "/developerFolio/static/media/developerActivity.59389695.svg",
+    "static/media/googleAssistantLogo.webp": "/developerFolio/static/media/googleAssistantLogo.e79c6392.webp",
+    "static/media/manOnTable.svg": "/developerFolio/static/media/manOnTable.52be3144.svg",
+    "static/media/nextuLogo.webp": "/developerFolio/static/media/nextuLogo.829ad0a1.webp",
+    "static/media/nstu.png": "/developerFolio/static/media/nstu.9548b33d.png",
+    "static/media/pwaLogo.webp": "/developerFolio/static/media/pwaLogo.ee62cb58.webp",
+    "static/media/saayaHealthLogo.webp": "/developerFolio/static/media/saayaHealthLogo.25018d29.webp",
+    "static/media/skill.svg": "/developerFolio/static/media/skill.34409398.svg",
+    "static/media/TalkCard.scss": "/developerFolio/static/media/talksCardBack.13780cdd.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8b82a389.js",
+    "static/js/2.ad0979d9.chunk.js",
+    "static/css/main.6cd5fadf.chunk.css",
+    "static/js/main.a998674e.chunk.js"
+  ]
+}

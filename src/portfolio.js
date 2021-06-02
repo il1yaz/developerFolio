@@ -17,7 +17,7 @@ const greeting = {
     "Я DevOps инженер, который любит автоматизировать процессы, организует беспрерывную поставку изменений и активно взаимодействует со всеми членами команды."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing",
+    "https://drive.google.com/file/d/1hlc4OxK8zYXhWQeSxQgUppPCv-v078p_/view?usp=sharing",
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -34,16 +34,15 @@ const socialMediaLinks = {
 // Skills Section
 
 const skillsSection = {
-  title: "Что я умею",
+  title: "Ключевые навыки",
   subTitle: "",
   skills: [
-    emoji(
-      "This Skill"
-    ),
-    emoji("That skill"),
-    emoji(
-      "Another one skill"
-    )
+    "Имею опыт работы в Linux",
+    "Умею заворачивать приложения в Docker контейнеры",
+    "Умею запускать Docker контейнеры в Kubernetes ",
+    "Могу запустить инфраструктуру через Docker-compose",
+    "Разворачиваю релизы через Helm",
+    "Пишу Pipeline скрипты в Jenkins"
   ],
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
@@ -55,7 +54,7 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-linux"
     },
     {
-      skillName: "git",
+      skillName: "Git",
       fontAwesomeClassname: "fab fa-git"
     },
     {
@@ -82,10 +81,6 @@ https://fontawesome.com/icons?d=gallery */
     {
       skillName: "java",
       fontAwesomeClassname: "fab fa-java"
-    },
-    {
-      skillName: "golang",
-      fontAwesomeClassname: "fab fa-google"
     }
   ],
   display: true // Set false to hide this section, defaults to true
@@ -100,7 +95,7 @@ const educationInfo = {
       schoolName: "Новосибирский Государственный Технический Университет",
       logo: require("./assets/images/nstu.png"),
       subHeader: "Бакалавр по специальности Информационная безопасность",
-      duration: "Сентябрь 2012 - Май 2015",
+      duration: "Сентябрь 2012 - Май 2015"
     }
   ]
 };
@@ -134,8 +129,10 @@ const workExperiences = {
       date: "Июнь 2017 – Май 2019",
       desc: "Api автотесты",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "Создание авто-тестов на api методы микросервисов",
+        "Усовершенствование фреймворка тестирования API",
+        "Поддержка работоспособности уже написанных тестов",
+        "Анализ результатов прогонов авто-тестов"
       ]
     },
     {
@@ -145,8 +142,10 @@ const workExperiences = {
       date: "Май 2019 – Июнь 2021",
       desc: "CI/CD, Автоматизация",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "Организация беспрерывной работы тестового окружения",
+        "Разработка и поддержка CI/CD пайплайнов",
+        "Автоматизация рутинных задач",
+        "Деплой микросервисов в Docker/Kubernetes"
       ]
     }
   ]
@@ -311,7 +310,7 @@ const contactInfo = {
   title: emoji("Свяжитесь со мной"),
   subtitle:
     "",
-  number: "+7-913937",
+  number: "+7-913-937-64-41",
   email_address: "il1ya.zmail.ru@gmail.com"
 };
 

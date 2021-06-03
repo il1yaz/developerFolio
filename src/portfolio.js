@@ -17,7 +17,7 @@ const greeting = {
     "Я DevOps инженер, который любит автоматизировать процессы, организует беспрерывную поставку изменений и активно взаимодействует со всеми членами команды."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1hlc4OxK8zYXhWQeSxQgUppPCv-v078p_/view?usp=sharing",
+    "https://drive.google.com/file/d/1xAi9TlZvECf_BDb_AriYT_fxt91hIF2F/view?usp=sharing",
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 

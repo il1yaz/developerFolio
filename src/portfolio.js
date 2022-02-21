@@ -147,6 +147,18 @@ const workExperiences = {
         "Автоматизация рутинных задач",
         "Деплой микросервисов в Docker/Kubernetes"
       ]
+    },
+    {
+      role: "DevOps",
+      company: "Dins",
+      companylogo: require("./assets/images/dins.png"),
+      date: "Июль 2021 - По настоящее время",
+      desc: "CI/CD, Разработка средств интеграции",
+      descBullet: [
+        "Поддержка работы пайплайнов в Spinnaker",
+        "Разработка плагинов для Jenkins/Spinnaker",
+        "Разработка и поддержка существующих систем интеграции на Go,Python,Java"
+      ]
     }
   ]
 };

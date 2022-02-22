@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/developerFolio/static/css/main.6cd5fadf.chunk.css",
-    "main.js": "/developerFolio/static/js/main.16050ac9.chunk.js",
-    "main.js.map": "/developerFolio/static/js/main.16050ac9.chunk.js.map",
+    "main.js": "/developerFolio/static/js/main.02cd131e.chunk.js",
+    "main.js.map": "/developerFolio/static/js/main.02cd131e.chunk.js.map",
     "runtime-main.js": "/developerFolio/static/js/runtime-main.03efbb9e.js",
     "runtime-main.js.map": "/developerFolio/static/js/runtime-main.03efbb9e.js.map",
     "static/js/2.80f572ee.chunk.js": "/developerFolio/static/js/2.80f572ee.chunk.js",
@@ -14,7 +14,7 @@
     "static/js/4.d08605c1.chunk.js": "/developerFolio/static/js/4.d08605c1.chunk.js",
     "static/js/4.d08605c1.chunk.js.map": "/developerFolio/static/js/4.d08605c1.chunk.js.map",
     "index.html": "/developerFolio/index.html",
-    "precache-manifest.c62ad8e22719b6f97d7ab69c08662a8f.js": "/developerFolio/precache-manifest.c62ad8e22719b6f97d7ab69c08662a8f.js",
+    "precache-manifest.11ed979423da78a5c8fba778dabc7f8c.js": "/developerFolio/precache-manifest.11ed979423da78a5c8fba778dabc7f8c.js",
     "service-worker.js": "/developerFolio/service-worker.js",
     "static/css/3.5b632396.chunk.css.map": "/developerFolio/static/css/3.5b632396.chunk.css.map",
     "static/css/4.360ea92e.chunk.css.map": "/developerFolio/static/css/4.360ea92e.chunk.css.map",
@@ -24,6 +24,7 @@
     "static/media/codeInLogo.webp": "/developerFolio/static/media/codeInLogo.47a7a717.webp",
     "static/media/contactMailDark.svg": "/developerFolio/static/media/contactMailDark.51cf7192.svg",
     "static/media/developerActivity.svg": "/developerFolio/static/media/developerActivity.59389695.svg",
+    "static/media/dins.png": "/developerFolio/static/media/dins.97984412.png",
     "static/media/googleAssistantLogo.webp": "/developerFolio/static/media/googleAssistantLogo.e79c6392.webp",
     "static/media/manOnTable.svg": "/developerFolio/static/media/manOnTable.52be3144.svg",
     "static/media/nextuLogo.webp": "/developerFolio/static/media/nextuLogo.829ad0a1.webp",
@@ -37,6 +38,6 @@
     "static/js/runtime-main.03efbb9e.js",
     "static/js/2.80f572ee.chunk.js",
     "static/css/main.6cd5fadf.chunk.css",
-    "static/js/main.16050ac9.chunk.js"
+    "static/js/main.02cd131e.chunk.js"
   ]
 }

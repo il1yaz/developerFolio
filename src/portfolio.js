@@ -112,7 +112,7 @@ const techStack = {
     {
       Stack: "Linux", //Insert stack or technology you have experience in
       progressPercentage: "70%" //Insert relative proficiency in percentage
-    },
+    }
   ],
   displayCodersrank: false // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
 };
@@ -168,7 +168,7 @@ To know how to get github key look at readme.md */
 
 const openSource = {
   showGithubProfile: "false", // Set true or false to show Contact profile using Github, defaults to true
-  display: false  // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 // Some big projects you have worked on
@@ -320,8 +320,7 @@ const podcastSection = {
 
 const contactInfo = {
   title: emoji("Свяжитесь со мной"),
-  subtitle:
-    "",
+  subtitle: "",
   number: "+7-913-937-64-41",
   email_address: "il1ya.zmail.ru@gmail.com"
 };

@@ -41,12 +41,12 @@ function Header() {
         <ul className={isDark ? "dark-menu menu" : "menu"}>
           {viewSkills && (
             <li>
-              <a href="#skills">Навыки</a>
+              <a href="#skills">Skills</a>
             </li>
           )}
           {viewExperience && (
             <li>
-              <a href="#experience">Опыт работы</a>
+              <a href="#experience">Work Experiences</a>
             </li>
           )}
           {viewOpenSource && (
@@ -70,7 +70,13 @@ function Header() {
             </li>
           )}
           <li>
-            <a href="#contact">Контактная информация</a>
+            <a href="#contact">Contact Me</a>
+          </li>
+          <li>
+            {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
+            <a>
+              <ToggleSwitch />
+            </a>
           </li>
         </ul>
       </header>

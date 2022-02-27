@@ -123,16 +123,15 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Automation QA Engineer",
-      company: "ЦФТ",
-      companylogo: require("./assets/images/cft.png"),
-      date: "Июнь 2017 – Май 2019",
-      desc: "Api автотесты",
+      role: "DevOps",
+      company: "Dins",
+      companylogo: require("./assets/images/dins.png"),
+      date: "Июль 2021 - По настоящее время",
+      desc: "CI/CD, Разработка средств интеграции",
       descBullets: [
-        "Создание авто-тестов на api методы микросервисов",
-        "Усовершенствование фреймворка тестирования API",
-        "Поддержка работоспособности уже написанных тестов",
-        "Анализ результатов прогонов авто-тестов"
+        "Поддержка работы пайплайнов в Spinnaker",
+        "Разработка плагинов для Jenkins/Spinnaker",
+        "Разработка и поддержка существующих систем интеграции на Go,Python,Java"
       ]
     },
     {
@@ -149,15 +148,16 @@ const workExperiences = {
       ]
     },
     {
-      role: "DevOps",
-      company: "Dins",
-      companylogo: require("./assets/images/dins.png"),
-      date: "Июль 2021 - По настоящее время",
-      desc: "CI/CD, Разработка средств интеграции",
+      role: "Automation QA Engineer",
+      company: "ЦФТ",
+      companylogo: require("./assets/images/cft.png"),
+      date: "Июнь 2017 – Май 2019",
+      desc: "Api автотесты",
       descBullets: [
-        "Поддержка работы пайплайнов в Spinnaker",
-        "Разработка плагинов для Jenkins/Spinnaker",
-        "Разработка и поддержка существующих систем интеграции на Go,Python,Java"
+        "Создание авто-тестов на api методы микросервисов",
+        "Усовершенствование фреймворка тестирования API",
+        "Поддержка работоспособности уже написанных тестов",
+        "Анализ результатов прогонов авто-тестов"
       ]
     }
   ]

@@ -1,7 +1,9 @@
-@import '../../_globalColor';
+@import "../../_globalColor";
 
 .skills-main-div {
   display: flex;
+  width: 100%;
+  overflow: hidden;
 }
 
 .skills-text-div {

@@ -17,7 +17,7 @@ const greeting = {
     "Я DevOps инженер, который любит автоматизировать процессы, организует беспрерывную поставку изменений и активно взаимодействует со всеми членами команды."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1xAi9TlZvECf_BDb_AriYT_fxt91hIF2F/view?usp=sharing",
+    "https://drive.google.com/file/d/1yQaGcxN7RVLtvcqW5X62n2CqhmiWTvWt/view?usp=share_link",
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -42,7 +42,10 @@ const skillsSection = {
     "Умею запускать Docker контейнеры в Kubernetes ",
     "Могу запустить инфраструктуру через Docker-compose",
     "Разворачиваю релизы через Helm",
-    "Пишу Pipeline скрипты в Jenkins"
+    "Пишу Pipeline скрипты в Jenkins",
+    "Инфраструктуру описываю в Terraform",
+    "Автоматизирую настройку с помощью Ansible",
+    "Поднимаю окружения в облачной среде ( AWS, Yandex.Cloud )"
   ],
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
@@ -81,6 +84,14 @@ https://fontawesome.com/icons?d=gallery */
     {
       skillName: "java",
       fontAwesomeClassname: "fab fa-java"
+    },
+    {
+      skillName: "terraform",
+      fontAwesomeClassname: "fa-sharp fa-solid fa-t"
+    },
+    {
+      skillName: "ansible",
+      fontAwesomeClassname: "fa-solid fa-a"
     }
   ],
   display: true // Set false to hide this section, defaults to true
@@ -124,9 +135,23 @@ const workExperiences = {
   experience: [
     {
       role: "DevOps",
+      company: "Банк «Санкт-Петербург»",
+      companylogo: require("./assets/images/sank_peter_bank_1.png"),
+      date: "Октябрь 2022 - По настоящее время",
+      desc: "Установка и настройка систем для Разработки и Тестирования",
+      descBullets: [
+        "Разворачивание сервисов в Yandex.Cloud",
+        "Разработка Terraform модулей",
+        "Автоматизация окружения с использованием Ansible",
+        "Подбор подходящих инструментов по требованиям команд разработки",
+        "Консультации по DevOps практикам и подходам"
+      ]
+    },
+    {
+      role: "DevOps",
       company: "Dins",
       companylogo: require("./assets/images/dins.png"),
-      date: "Июль 2021 - По настоящее время",
+      date: "Июль 2021 - Октябрь 2022",
       desc: "CI/CD, Разработка средств интеграции",
       descBullets: [
         "Поддержка работы пайплайнов в Spinnaker",

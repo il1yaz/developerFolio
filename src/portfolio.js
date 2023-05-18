@@ -84,15 +84,15 @@ https://fontawesome.com/icons?d=gallery */
     {
       skillName: "java",
       fontAwesomeClassname: "fab fa-java"
-    },
-    {
-      skillName: "terraform",
-      fontAwesomeClassname: "fa-sharp fa-solid fa-t"
-    },
-    {
-      skillName: "ansible",
-      fontAwesomeClassname: "fa-solid fa-a"
     }
+    // {
+    //   skillName: "terraform",
+    //   fontAwesomeClassname: "fab fa-t"
+    // },
+    // {
+    //   skillName: "ansible",
+    //   fontAwesomeClassname: "fab fa-a"
+    // }
   ],
   display: true // Set false to hide this section, defaults to true
 };

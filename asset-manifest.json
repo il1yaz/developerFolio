@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.f6d35241.css",
-    "main.js": "/static/js/main.80026d40.js",
+    "main.css": "/static/css/main.1541d83a.css",
+    "main.js": "/static/js/main.70754561.js",
     "static/css/141.27c49f1b.chunk.css": "/static/css/141.27c49f1b.chunk.css",
-    "static/js/141.64e3f89c.chunk.js": "/static/js/141.64e3f89c.chunk.js",
+    "static/js/141.092d57f2.chunk.js": "/static/js/141.092d57f2.chunk.js",
     "static/css/769.70f3b610.chunk.css": "/static/css/769.70f3b610.chunk.css",
-    "static/js/769.7be7f469.chunk.js": "/static/js/769.7be7f469.chunk.js",
+    "static/js/769.43341a01.chunk.js": "/static/js/769.43341a01.chunk.js",
     "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.dfa0f4ee94af23ed8edc.ttf",
     "static/media/Agustina.woff": "/static/media/Agustina.5f13d7f45abc770d221e.woff",
     "static/media/manOnTable.svg": "/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
@@ -22,15 +22,15 @@
     "static/media/nextuLogo.webp": "/static/media/nextuLogo.e033dbfa4c58c0a906aa.webp",
     "index.html": "/index.html",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
-    "main.f6d35241.css.map": "/static/css/main.f6d35241.css.map",
-    "main.80026d40.js.map": "/static/js/main.80026d40.js.map",
+    "main.1541d83a.css.map": "/static/css/main.1541d83a.css.map",
+    "main.70754561.js.map": "/static/js/main.70754561.js.map",
     "141.27c49f1b.chunk.css.map": "/static/css/141.27c49f1b.chunk.css.map",
-    "141.64e3f89c.chunk.js.map": "/static/js/141.64e3f89c.chunk.js.map",
+    "141.092d57f2.chunk.js.map": "/static/js/141.092d57f2.chunk.js.map",
     "769.70f3b610.chunk.css.map": "/static/css/769.70f3b610.chunk.css.map",
-    "769.7be7f469.chunk.js.map": "/static/js/769.7be7f469.chunk.js.map"
+    "769.43341a01.chunk.js.map": "/static/js/769.43341a01.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f6d35241.css",
-    "static/js/main.80026d40.js"
+    "static/css/main.1541d83a.css",
+    "static/js/main.70754561.js"
   ]
 }

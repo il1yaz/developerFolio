@@ -42,7 +42,7 @@ const skillsSection = {
     "Умею запускать Docker контейнеры в Kubernetes ",
     "Могу запустить инфраструктуру через Docker-compose",
     "Разворачиваю релизы через Helm",
-    "Пишу Pipeline скрипты в Jenkins",
+    "Пишу Pipeline скрипты в GitlabCI/Jenkins",
     "Инфраструктуру описываю в Terraform",
     "Автоматизирую настройку с помощью Ansible",
     "Поднимаю окружения в облачной среде ( AWS, Yandex.Cloud )"
@@ -84,15 +84,23 @@ https://fontawesome.com/icons?d=gallery */
     {
       skillName: "java",
       fontAwesomeClassname: "fab fa-java"
+    },
+    {
+      skillName: "golang",
+      fontAwesomeClassname: "fab fa-golang"
+    },
+    {
+      skillName: "Yandex Cloud",
+      fontAwesomeClassname: "fab fa-yandex" 
+    },
+    {
+      skillName: "terraform",
+      fontAwesomeClassname: "fas fa-t"
+    },
+    {
+      skillName: "ansible",
+      fontAwesomeClassname: "fas fa-font"
     }
-    // {
-    //   skillName: "terraform",
-    //   fontAwesomeClassname: "fab fa-t"
-    // },
-    // {
-    //   skillName: "ansible",
-    //   fontAwesomeClassname: "fab fa-a"
-    // }
   ],
   display: true // Set false to hide this section, defaults to true
 };
